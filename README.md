@@ -2,7 +2,7 @@
 ### This is Pavan Nettam🐾
 
 <p><i>
-  I'm an undergrad student in computer science and engineering at PES University, Bengaluru, India. A machine intelligence and data science enthusiast, looking forward to slove real world problems by moveing from the known towards the unknown.
+  I'm an undergrad student in computer science and engineering at PES University, Bengaluru, India. A machine intelligence and data science enthusiast, looking forward to slove real world problems by moving from the known towards the unknown.
 </p></i>
 
 <!--
